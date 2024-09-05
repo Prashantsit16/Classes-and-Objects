@@ -6,9 +6,9 @@ using namespace std;
 class Myself //defining a class 
 {
    public: //access type 
-   string name="Priti";
-   string surname="Bhardwaj";
-   int date= 11,month=11,year=2004;
+   string name="Prashant";
+   string surname="Bajpai";
+   int date= 16,month=12,year=2003;
    void displayInfo() //method(function) of a class
    {
     cout<<"My details: "<<endl<<name<<" "<<surname<< endl<< "DOB: "<<date<<"/"<<month<<"/"<<year;
