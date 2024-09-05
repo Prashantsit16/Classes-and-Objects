@@ -40,12 +40,17 @@ public: string name;// initializng name as public, it can be accessed outside th
 
 OUTPUT:
 Class definition :
+![Screenshot 2024-09-05 151237](https://github.com/user-attachments/assets/a3d51004-181d-4a6c-91d3-b23b46728435)
 
 Function/method inside a class:
+![Screenshot 2024-09-05 151441](https://github.com/user-attachments/assets/9920546a-57ab-4851-863c-ea316093efeb)
 
 Access type of classes:
+![Screenshot 2024-09-05 151311](https://github.com/user-attachments/assets/ede33940-7289-4e17-9ef7-e74f617645a6)
 
-Class program
+Class program:
+![Screenshot 2024-09-05 151541](https://github.com/user-attachments/assets/e92162f3-ee06-43ce-acf3-c4c130c335fe)
+
 
 Conclusion:
 We learnt about Classes, objects and methods in C++ programming.
